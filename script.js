@@ -3,7 +3,7 @@
 // Si potrebbe fare saltando un if o comunque accorpando porzioni di codice.
 //Occhio solo a non saltare troppi passaggi logici che per qualcuno sono ostici.
 
-const insNumero = prompt("Inserisci un numero")
+const insNumero = parseInt(prompt("Inserisci un numero"))
 
 if (insNumero % 2 === 0) {
     console.log(insNumero)
