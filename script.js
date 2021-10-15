@@ -8,5 +8,5 @@ const insNumero = prompt("Inserisci un numero")
 if (insNumero % 2 === 0) {
     console.log(insNumero)
 } else if (insNumero % 3 === 0) {
-    
+    console.log(insNumero + 1)
 }
