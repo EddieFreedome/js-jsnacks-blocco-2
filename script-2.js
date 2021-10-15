@@ -12,6 +12,8 @@
 const array1 = [15, 2, 7];
 const array2 = [5];
 
+//variabile lunghezza = array1.lenght ?
+
 if (array1.lenght < array2.lenght){
     array1.push(Math.random() *10)
 } if else (//array2 > 1)
