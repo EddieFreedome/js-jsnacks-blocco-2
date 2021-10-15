@@ -16,8 +16,18 @@ const array2 = [5];
 
 if (array1.lenght < array2.lenght){
     array1.push(Math.random() *10)
-} if else (//array2 > 1)
+} else if (//array2 > 1)
 
 let numValori1 
 let numValori2
 let numDaInserire = MathRandom
+
+
+//controllo lunghezze array
+    //se array 1 e' lungo come array2 --> fine
+    //altrimenti, se array1 e' piu' piccolo dell'array2 -> etichetto array1 come il piu' piccolo tra i due
+    //altrimenti -> etichetto l'array2 come il piu' piccolo tra i due
+//calcolo la differenza tra i due
+//aggiungo tanti elementi all'array piu' piccolo rispetto a quanto e' la differenza tra i due.
+
+if
